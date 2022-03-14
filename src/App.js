@@ -1,4 +1,4 @@
-import Calculator from './components/Calculator';
+import Container from './components/Container/Container';
 import './App.css';
 
 // Homework - due 24/02
@@ -6,7 +6,7 @@ import './App.css';
 
 const App = () => {
   return (
-    <Calculator />
+    <Container />
   );
 }
 
